@@ -125,7 +125,7 @@ Please note that `Push.Configure` is called automatically when using the `config
             websitePushId: 'com.push.server'
             webServiceUrl: 'http://some.server.com'
         },
-        bagde: true,
+        badge: true,
         sound: true,
         alert: true
     });
